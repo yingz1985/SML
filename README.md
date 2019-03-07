@@ -1,2 +1,3 @@
 # SML
-Standard ML practice 
+Standard ML practice:
+  Some functions include- mergesort, binary add/or/xor,goldbach etc...
